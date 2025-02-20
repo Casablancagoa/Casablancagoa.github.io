@@ -1,0 +1,38 @@
+:root {
+    --primary-color: #2d3436;
+    --accent-color: #e67e22;
+}
+
+.hero {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+                url('../images/hero.jpg') center/cover;
+    height: 100vh;
+    color: white;
+}
+
+.navbar {
+    padding: 1rem 0;
+}
+
+.logo img {
+    height: 50px;
+}
+
+.btn-book {
+    background: var(--accent-color);
+    padding: 1rem 2rem;
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+.booking-form {
+    padding: 4rem 0;
+    background: #f9f9f9;
+}
+
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
+}
