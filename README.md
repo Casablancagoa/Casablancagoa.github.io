@@ -1,6 +1,6 @@
-# Luxury Haven Hotel Website
+# Beach resort and Restaurant
 
-Welcome to the official repository for Luxury Haven Hotel's website.
+Welcome to the official repository for Casablanca Hotel's website.
 
 ## Features
 - Responsive design
