@@ -1,0 +1,23 @@
+title: Casablanca Goa
+author: Casablanca Goa
+email: goacasablanca@gmail.com
+description: Your Sanctuary in North Goa
+# description: >-
+#   «Casablanca Goa» is a designer hotel in a heart of North Goa by the infamous Turtle Beach.
+
+social:
+#  twitter: joaomlneto
+  facebook: goacasablanca
+  instagram: goacasablanca
+  #  github: joaomlneto
+    #  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
